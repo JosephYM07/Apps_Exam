@@ -2,19 +2,19 @@
 
 Este repositorio contiene varios proyectos desarrollados con Ionic. Cada proyecto se enfoca en diferentes funcionalidades y utiliza distintos servicios de Firebase para su implementación. A continuación se detallan los proyectos incluidos:
 
-1. App CV + firebase hosting+infinite scrolling
-2. App Camera
-3. Login - firebase authentication
-4. App for uploading files with storage
-5. Real-time chat application
-6. Storing real-time GPS data in Cloud Firestore
-7. Display location on Google Maps or OpenStreetMap
+1. [App CV + Firebase Hosting + Infinite Scrolling](URL_Aplicacion_CV)
+2. [App Camera](URL_App_Camera)
+3. [Login - Firebase Authentication](URL_Login_Firebase)
+4. [App for Uploading Files with Storage](URL_App_Upload)
+5. [Real-time Chat Application](URL_Realtime_Chat)
+6. [Storing Real-time GPS Data in Cloud Firestore](URL_Realtime_GPS)
+7. [Display Location on Google Maps or OpenStreetMap](URL_Display_Location)
 
 ## Integrantes del Equipo
 
-- Joseph Yépez
-- Jared Valenzuela
-- Alejandro Moreira
+- [Joseph Yépez](https://github.com/JosephYM07)
+- [Jared Valenzuela](https://github.com/JaredVS777)
+- [Alejandro Moreira](https://github.com/Alejandro-Moreira)
 
 ## Instrucciones de Instalación
 
