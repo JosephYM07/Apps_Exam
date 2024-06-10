@@ -2,7 +2,7 @@
 
 Este repositorio contiene varios proyectos desarrollados con Ionic. Cada proyecto se enfoca en diferentes funcionalidades y utiliza distintos servicios de Firebase para su implementación. A continuación se detallan los proyectos incluidos:
 
-1. [App CV + Firebase Hosting + Infinite Scrolling](URL_Aplicacion_CV)
+1. [App CV + Firebase Hosting + Infinite Scrolling]([URL_Aplicacion_CV](https://github.com/JosephYM07/App-CV-Firebase-Hosting-Infinite-Scrolling.git)) - [Deploy](https://a-8a03e.web.app/tabs/tab1)
 2. [App Camera](https://github.com/JaredVS777/App_fotos.git) - [Deploy](fotos1-1f12b.web.app/tabs/tab1)
 3. [Login - Firebase Authentication](https://github.com/Alejandro-Moreira/Login-Firebase.git) - [Deploy](https://login-155ac.web.app) 
 4. [App for Uploading Files with Storage](https://github.com/JaredVS777/App_storage.git) - [Deploy](storage-f5a23.web.app)
