@@ -82,6 +82,10 @@ Móvil
 </p>
 
 ### Storing Real-time GPS Data in Cloud Firestore
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/3c4f38b4-dfe1-449b-beab-eadc6243af93)
+
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/1292a7d4-276e-4c7b-86c7-a64c037de60c)
+
 
 ### Display Location on Google Maps or OpenStreetMap
 <p align="center">
