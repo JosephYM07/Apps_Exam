@@ -39,9 +39,14 @@ A continuación se muestran algunas capturas de pantalla de cada proyecto en eje
 Web
 ![image](https://github.com/JaredVS777/App_storage/assets/126533404/a8514082-ce43-4f49-91b9-c553c06d3add)
 ![image](https://github.com/JaredVS777/App_storage/assets/126533404/0e9ed61a-c85b-4f5f-b102-cbb339f4ae0d)
+
+
 Móvil
-![image](https://github.com/JosephYM07/Apps_Exam/assets/126533404/0bcd6469-87e9-4bc3-af16-9612d2dc478a)
-![image](https://github.com/JosephYM07/Apps_Exam/assets/126533404/868e74c5-05e7-493c-88f0-b36045f38dce)
+<p align="center">
+  <img src="assets/storage_2.jpg" width="200" alt="Pantalla de Storage">
+  <img src="assets/storage_1.jpg" width="200" alt="Pantalla de Inicio">
+  
+</p>
 
 ### Real-time Chat Application
 
