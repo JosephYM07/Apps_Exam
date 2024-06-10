@@ -24,16 +24,16 @@ Para cada proyecto, sigue las instrucciones específicas detalladas en su respec
 
 A continuación se muestran algunas capturas de pantalla de cada proyecto en ejecución:
 
-### Aplicación de Hoja de Vida (CV) con Firebase Hosting y Infinite Scrolling
+### App CV + Firebase Hosting + Infinite Scrolling
 
-### Aplicación para Tomar Fotos
+### App Camera
 
-### Login con Firebase Authentication
+### Login - Firebase Authentication
 
-### App para Subir Archivos con Firebase Storage
+### App for Uploading Files with Storage
 
-### App para Chatear con Firebase Real-time Database
+### App CV + Firebase Hosting + Infinite Scrolling
 
-### GPS con Guardado de Datos en Firebase Real-time Database o Firestore
+### Storing Real-time GPS Data in Cloud Firestore
 
-### Mostrar Ubicación en Google Maps o en OpenStreetMap
+### Display Location on Google Maps or OpenStreetMap
