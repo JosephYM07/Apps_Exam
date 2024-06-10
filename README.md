@@ -31,6 +31,8 @@ A continuación se muestran algunas capturas de pantalla de cada proyecto en eje
 ### Login - Firebase Authentication
 
 ### App for Uploading Files with Storage
+![image](https://github.com/JaredVS777/App_storage/assets/126533404/a8514082-ce43-4f49-91b9-c553c06d3add)
+![image](https://github.com/JaredVS777/App_storage/assets/126533404/0e9ed61a-c85b-4f5f-b102-cbb339f4ae0d)
 
 ### Real-time Chat Application
 
