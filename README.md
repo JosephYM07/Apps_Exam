@@ -25,6 +25,12 @@ Para cada proyecto, sigue las instrucciones específicas detalladas en su respec
 A continuación se muestran algunas capturas de pantalla de cada proyecto en ejecución:
 
 ### App CV + Firebase Hosting + Infinite Scrolling
+<p align="center">
+  <img src="assets/hoja_1.jpg" width="200" alt="Pantalla de Inicio">
+  <img src="assets/hoja_2.jpg" width="200" alt="Pantalla de Chat">
+  <img src="assets/hoja_3.jpg" width="200" alt="Pantalla de Registro">
+</p>
+
 
 ### App Camera
 ![image](https://github.com/JosephYM07/AppIonic_Camera/assets/117743484/649e2069-3007-4675-bbdb-54c44024f837)
