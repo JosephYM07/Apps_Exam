@@ -34,6 +34,20 @@ A continuación se muestran algunas capturas de pantalla de cada proyecto en eje
 ![image](https://github.com/JosephYM07/AppIonic_Camera/assets/117743484/0ca27938-5fb1-45ef-a76d-f667645bbd62)
 
 ### Login - Firebase Authentication
+Web
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/9afe38c3-9f74-40ea-ad3b-4f13c0736067)
+
+Registro
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/7844dcac-6c14-4ea3-b68e-82441608593b)
+
+Login
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/db29be1a-5c1c-45b8-b0d3-a51f76311c46)
+
+Vista
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/010c3cc0-7b2b-4359-a78a-05f7346a945c)
+
+Firebase
+![image](https://github.com/JosephYM07/Apps_Exam/assets/117743484/5db79ca4-429f-4036-82a2-b90a5591be21)
 
 ### App for Uploading Files with Storage
 Web
