@@ -15,6 +15,11 @@ Este repositorio contiene varios proyectos desarrollados con Ionic. Cada proyect
 - [Joseph Yépez](https://github.com/JosephYM07)
 - [Jared Valenzuela](https://github.com/JaredVS777)
 - [Alejandro Moreira](https://github.com/Alejandro-Moreira)
+- <p align="center">
+  <img src="assets/Alejo.jpg" width="200" alt="Pantalla de Inicio">
+  <img src="assets/Jared.jpg" width="200" alt="Pantalla de Chat">
+  <img src="assets/Joseph.jpg" width="200" alt="Pantalla de Registro">
+</p>
 
 ## Instrucciones de Instalación
 
