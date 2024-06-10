@@ -7,7 +7,7 @@ Este repositorio contiene varios proyectos desarrollados con Ionic. Cada proyect
 3. [Login - Firebase Authentication](https://github.com/Alejandro-Moreira/Login-Firebase.git) - [Deploy](https://login-155ac.web.app) 
 4. [App for Uploading Files with Storage](https://github.com/JaredVS777/App_storage.git) - [Deploy](storage-f5a23.web.app)
 5. [Real-time Chat Application](https://github.com/JosephYM07/Chat_Ionic.git) - [Deploy](https://database-chat-9d1b3.web.app/chat)
-6. [Storing Real-time GPS Data in Cloud Firestore]([[URL_Realtime_GPS](https://github.com/Alejandro-Moreira/GPS.git)] - [Deploy](https://gpsfirebase-750df.web.app))
+6. [Storing Real-time GPS Data in Cloud Firestore](https://github.com/Alejandro-Moreira/GPS.git)] - [Deploy](https://gpsfirebase-750df.web.app))
 7. [Display Location on Google Maps or OpenStreetMap](https://github.com/JosephYM07/Display-Location-on-Google-Maps-or-OpenStreetMap.git) - [Deploy](https://ubicaciongps-ee91c.web.app)
 
 ## Integrantes del Equipo
